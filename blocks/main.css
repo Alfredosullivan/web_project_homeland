@@ -40,6 +40,11 @@
 }
 
 @media screen AND (max-width: 768px) {
+  .main {
+    max-width: 720px;
+    margin: 90px 24px 64px;
+  }
+
   .main__title {
     font-size: 45px;
     line-height: 49px;
@@ -47,6 +52,11 @@
 }
 
 @media screen AND (max-width: 320px) {
+  .main {
+    max-width: 290px;
+    margin: 16px;
+  }
+
   .main__title {
     font-size: 32px;
     line-height: 35px;
