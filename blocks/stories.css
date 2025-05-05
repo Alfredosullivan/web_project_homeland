@@ -88,7 +88,7 @@
   .stories {
     max-width: 320px;
     gap: 50px;
-    margin: 0 auto 65px;
+    margin: 0 16px 65px;
   }
 
   .stories__content {
